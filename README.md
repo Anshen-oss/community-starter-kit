@@ -3,8 +3,11 @@
 DESCRIPTION PLACEHOLDER
 
 ## What it does
+• C'est un projet pour aider les débutants à prendre les commandes principales de Github.
+• Pour démarrer les projet aller à cette url: https://lab.github.com/githubtraining/community-starter-kit
 
 FEATURES PLACEHOLDER
+• Mona maintient et contribue au projet
 
 ## Getting started
 
